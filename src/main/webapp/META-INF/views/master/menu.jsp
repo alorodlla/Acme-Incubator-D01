@@ -20,9 +20,9 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alorodlla" action="https://es-es.facebook.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-davtorcue" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-jospearui" action="https://twitter.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-antmarcab" action="https://www.youtube.com/"/>
-
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
