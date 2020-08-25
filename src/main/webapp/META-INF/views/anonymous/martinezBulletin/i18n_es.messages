@@ -1,0 +1,12 @@
+
+anonymous.martinezBulletin.list.label.autor = Autor:
+anonymous.martinezBulletin.list.label.comentario = Comentarios:
+anonymous.martinezBulletin.list.label.nota = Nota:
+anonymous.martinezBulletin.list.label.fecha = Fecha:
+
+anonymous.martinezBulletin.form.label.autor = Autor:
+anonymous.martinezBulletin.form.label.comentarios = Comentarios:
+anonymous.martinezBulletin.form.label.nota = Nota:
+anonymous.martinezBulletin.form.button.create = Publicar boletín
+anonymous.martinezBulletin.form.button.return = Volver
+

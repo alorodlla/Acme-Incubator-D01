@@ -1,0 +1,12 @@
+
+anonymous.martinezBulletin.list.label.autor = Author:
+anonymous.martinezBulletin.list.label.comentario = Commentaries:
+anonymous.martinezBulletin.list.label.nota = Grade:
+anonymous.martinezBulletin.list.label.fecha = Date:
+
+anonymous.martinezBulletin.form.label.autor = Author:
+anonymous.martinezBulletin.form.label.comentarios = Commentaries:
+anonymous.martinezBulletin.form.label.nota = Grade:
+anonymous.martinezBulletin.form.button.create = Post bulletin
+anonymous.martinezBulletin.form.button.return = Return
+

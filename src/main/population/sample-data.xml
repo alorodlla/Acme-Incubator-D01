@@ -16,5 +16,81 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<!-- rodriguezBulletin  -->
+	
+	<bean id="rodriguezBulletin01" class="acme.entities.rodriguezBulletins.RodriguezBulletin">
+		<property name="project" value="Cloud migration"/>
+		<property name="company" value="Doors"/>
+		<property name="complexity" value="4"/>
+	</bean>
 
+	<bean id="rodriguezBulletin02" class="acme.entities.rodriguezBulletins.RodriguezBulletin">
+		<property name="project" value="Web page update"/>
+		<property name="company" value="Pear"/>
+		<property name="complexity" value="2"/>
+	</bean>
+
+	<!-- penuelaBulletins -->
+	
+	<bean id="penuelaBulletin01" class="acme.entities.penuelaBulletins.PenuelaBulletin">
+		<property name="name" value="John Doe"/>
+		<property name="pros" value="I can speak Spanish"/>
+		<property name="cons" value="I cant speak French"/>
+	</bean>
+
+	<bean id="penuelaBulletin02" class="acme.entities.penuelaBulletins.PenuelaBulletin">
+		<property name="name" value="John Dos"/>
+		<property name="pros" value="I learn so fast!"/>
+		<property name="cons" value="Im lazy"/>
+	</bean>
+	
+	<bean id="penuelaBulletin03" class="acme.entities.penuelaBulletins.PenuelaBulletin">
+		<property name="name" value="John Tres"/>
+		<property name="pros" value="Im a good person"/>
+		<property name="cons" value="Im flawless"/>
+	</bean>
+	
+
+  <!-- martinezBulletins  -->
+	
+	<bean id="martinezBulletin01" class="acme.entities.martinezBulletins.MartinezBulletin">
+		<property name="autor" value="Jose Rodríguez"/>
+		<property name="comentarios" value="I like this site"/>
+		<property name="nota" value="10"/>
+	</bean>
+	
+	<bean id="martinezBulletin02" class="acme.entities.martinezBulletins.MartinezBulletin">
+		<property name="autor" value="Pepe Sánchez"/>
+		<property name="comentarios" value="don't quite like the looks of the site"/>
+		<property name="nota" value="4"/>
+	</bean>
+	
+	<bean id="martinezBulletin03" class="acme.entities.martinezBulletins.MartinezBulletin">
+		<property name="autor" value="SadGuy526"/>
+		<property name="comentarios" value="it's just OK"/>
+		<property name="nota" value="6"/>
+	</bean>
+  
+
+  	<!-- toroBulletins  -->
+	
+	<bean id="toroBulletins01" class="acme.entities.toroBulletins.ToroBulletin">
+		<property name="author" value="John Doe"/>
+		<property name="likes" value="Deportes, trabajar"/>
+		<property name="dislikes" value="No hacer nada, Discutir"/>
+	</bean>
+
+	<bean id="toroBulletins02" class="acme.entities.toroBulletins.ToroBulletin">
+		<property name="author" value="Jane Doe"/>
+		<property name="likes" value="No hacer nada"/>
+		<property name="dislikes" value="Correr, Prisas"/>
+	</bean>
+	
+	<bean id="toroBulletins03" class="acme.entities.toroBulletins.ToroBulletin">
+		<property name="author" value="Daniel Cano"/>
+		<property name="likes" value="Leer, Escribir"/>
+		<property name="dislikes" value="Conducir"/>
+	</bean>
+	
 </beans>

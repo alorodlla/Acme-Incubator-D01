@@ -23,6 +23,24 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-davtorcue" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-jospearui" action="https://twitter.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-antmarcab" action="https://www.youtube.com/"/>
+
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.toroBulletinlist" action="/anonymous/toroBulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.toroBulletincreate" action="/anonymous/toroBulletin/create"/>
+
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.martinez-bulletinlist" action="/anonymous/martinez-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.createmartinez-bulletin" action="/anonymous/martinez-bulletin/create"/>
+
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.rodriguez-bulletin.list" action="/anonymous/rodriguezBulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.rodriguez-bulletin.create" action="/anonymous/rodriguezBulletin/create"/>
+
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.penuelaBulletinlist" action="/anonymous/penuelaBulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.penuelaBulletincreate" action="/anonymous/penuelaBulletin/create"/>
+
+			
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

@@ -1,0 +1,10 @@
+
+anonymous.rodriguez-bulletin.form.label.project = Project:
+anonymous.rodriguez-bulletin.form.label.company = Company:
+anonymous.rodriguez-bulletin.form.label.complexity = Complexity:
+anonymous.rodriguez-bulletin.form.button.create = Create
+anonymous.rodriguez-bulletin.form.button.return = Return
+
+anonymous.rodriguez-bulletin.list.label.project = Project
+anonymous.rodriguez-bulletin.list.label.company = Company
+anonymous.rodriguez-bulletin.list.label.complexity = Complexity

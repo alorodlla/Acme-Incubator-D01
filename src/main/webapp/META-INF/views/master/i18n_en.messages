@@ -34,6 +34,19 @@ master.menu.anonymous.favourite-link-davtorcue = Favourite link-davtorcue
 master.menu.anonymous.favourite-link-jospearui = Favourite link-jospearui
 master.menu.anonymous.favourite-link-antmarcab = Favourite link-antmarcab
 
+master.menu.anonymous.toroBulletincreate = Create Toro Bulletin
+master.menu.anonymous.toroBulletinlist= Toro-Bulletin list
+
+
+master.menu.anonymous.martinez-bulletinlist = Martínez-Bulletin list
+master.menu.anonymous.createmartinez-bulletin = Create Martinez Bulletin
+
+master.menu.anonymous.rodriguez-bulletin.list = Rodriguez-Bulletin list
+master.menu.anonymous.rodriguez-bulletin.create = Create Rodriguez Bulletin
+
+master.menu.anonymous.penuelaBulletinlist = Penuela-Bulletin list
+master.menu.anonymous.penuelaBulletincreate = Create Penuela Bulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
