@@ -1,0 +1,10 @@
+anonymous.penuela-bulletin.list.label.name = Name
+anonymous.penuela-bulletin.list.label.pros = Pros
+anonymous.penuela-bulletin.list.label.cons = Cons
+
+anonymous.penuela-bulletin.form.label.name = Name
+anonymous.penuela-bulletin.form.label.pros = Pros
+anonymous.penuela-bulletin.form.label.cons = Cons
+
+anonymous.penuela-bulletin.form.button.create = Create penuelaBulletin
+anonymous.penuela-bulletin.form.button.return = Return
